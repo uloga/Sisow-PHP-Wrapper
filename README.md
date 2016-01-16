@@ -1,5 +1,5 @@
 # Sisow-PHP-Wrapper
-## Bijgevoegd vindt u volgende:
+### Bijgevoegd vindt u volgende:
 * sisow.cls5.php: onze standaard PHP5 wrapper class, gebaseerd op de REST API;
 * payment.php: een voorbeeld welke gebruikmaakt van de wrapper class;
 * REST API 3.2.1: de laatste versie van de REST API.
